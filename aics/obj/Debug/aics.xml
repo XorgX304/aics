@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+aics
+</name>
+</assembly>
+<members>
+<member name="T:aics.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:aics.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:aics.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:aics.Helpers">
+ <summary>
+ Flat UI Theme
+ Coder: iSynthesis (HF) // Blue version by: TRAGENALPHA
+ Version: 1.0.1
+ Date Created: 16/06/2013
+ Date Changed: 18/06/2013
+ UID: 374648
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,15 @@
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\bin\Debug\aics.exe.config
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\bin\Debug\aics.exe
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\bin\Debug\aics.pdb
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\bin\Debug\aics.xml
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\obj\Debug\aics.vbprojResolveAssemblyReference.cache
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\obj\Debug\aics.Form1.resources
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\obj\Debug\aics.Resources.resources
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\obj\Debug\aics.vbproj.GenerateResource.Cache
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\obj\Debug\aics.exe
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\obj\Debug\aics.xml
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\obj\Debug\aics.pdb
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\obj\Debug\aics.procinf.resources
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\obj\Debug\aics.pathinf.resources
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\obj\Debug\aics.execpar.resources
+C:\Users\TRAGENALPHA\Desktop\Projects\aics\aics\obj\Debug\aics.libman.resources
