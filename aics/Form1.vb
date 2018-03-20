@@ -267,22 +267,6 @@ Public Class Form1
         Process.Start("https://tragenalpha.github.io")
     End Sub
 
-    Private Sub PictureBox3_Click(sender As Object, e As EventArgs) Handles PictureBox3.Click
-        lol += 1
-        If lol = 3 Then
-            MsgBox("i swear to god stop. no boops.")
-        ElseIf lol = 4 Then
-            MsgBox("i swear to god stop. NO. BOOPS.")
-        ElseIf lol >= 5 Then
-            MsgBox("i said no fucking boops you fucking shit for brains did your mom drop you when you were a baby?")
-            If lol = 10 Then
-                lol = 0
-            End If
-        Else
-            MsgBox("no boops.")
-        End If
-    End Sub
-
     Private Sub CheckBox3_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox3.CheckedChanged
         If CheckBox3.Checked = True Then
             procinf.Show()
