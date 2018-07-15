@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("AutoIt 3 Compiler Suite")>
 <Assembly: AssemblyDescription("An alternative UI for AutoIt compiler with more features and options.")>
-<Assembly: AssemblyCompany("TRAGEN's EASTERN SOFTWARE DEVELOPMENT")>
+<Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("aics")>
-<Assembly: AssemblyCopyright("TRAGEN's EASTERN SOFTWARE DEVELOPMENT ©  2017")>
+<Assembly: AssemblyCopyright("")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
